@@ -1,4 +1,5 @@
-Academic Projects
+**Academic Projects**
+
 Welcome to the "academic_projects" repository! This repository serves as a collection of my academic endeavors, showcasing the various projects I've worked on during my academic journey. These projects span a wide range of subjects and demonstrate my skills, interests, and growth throughout my studies.
 
 
