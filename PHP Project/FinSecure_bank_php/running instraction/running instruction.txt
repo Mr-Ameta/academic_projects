@@ -1,0 +1,27 @@
+step 1 : open xampp and start apache and mysql services
+
+step 2 : open browser goto "localhost/phpmyadmin". Create new Database name "finsecure_bank".
+
+Step 3 : import database from database folder. into "finsecure_bank" database in phpmyadmin.
+
+step 4 : copy "Code" Folder and paste it into "c:xampp/htdocs" folder
+
+step 5 : open browser and Visit "localhost/code"
+
+success
+----------------------------------------------------------
+
+note: to access admin panel visit "localhost/code/admin"
+
+	login credentials:	username: admin@finsecure.com
+				password: admin
+
+	
+	to access sample bank account there are 2 sample account with transection history
+
+	1. email: sultanmirza@gmail.com
+	   password: sultanmirza
+
+	2. email: maheshameta723@gmail.com
+	   password: maheshameta
+

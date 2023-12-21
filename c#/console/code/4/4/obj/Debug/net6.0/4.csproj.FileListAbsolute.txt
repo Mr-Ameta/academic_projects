@@ -1,0 +1,15 @@
+C:\atmiya\c#\assignment 3\code\4\4\bin\Debug\net6.0\4.exe
+C:\atmiya\c#\assignment 3\code\4\4\bin\Debug\net6.0\4.deps.json
+C:\atmiya\c#\assignment 3\code\4\4\bin\Debug\net6.0\4.runtimeconfig.json
+C:\atmiya\c#\assignment 3\code\4\4\bin\Debug\net6.0\4.dll
+C:\atmiya\c#\assignment 3\code\4\4\bin\Debug\net6.0\4.pdb
+C:\atmiya\c#\assignment 3\code\4\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+C:\atmiya\c#\assignment 3\code\4\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\atmiya\c#\assignment 3\code\4\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+C:\atmiya\c#\assignment 3\code\4\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+C:\atmiya\c#\assignment 3\code\4\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\assignment 3\code\4\4\obj\Debug\net6.0\4.dll
+C:\atmiya\c#\assignment 3\code\4\4\obj\Debug\net6.0\refint\4.dll
+C:\atmiya\c#\assignment 3\code\4\4\obj\Debug\net6.0\4.pdb
+C:\atmiya\c#\assignment 3\code\4\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+C:\atmiya\c#\assignment 3\code\4\4\obj\Debug\net6.0\ref\4.dll

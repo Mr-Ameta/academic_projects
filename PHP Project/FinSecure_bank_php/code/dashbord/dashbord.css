@@ -1,0 +1,254 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  overflow-x: hidden;
+}
+:root {
+  --black: black;
+  --white: white;
+  --gray: rgba(128, 128, 128, 0.625);
+  --section: white;
+}
+main {
+  display: flex;
+}
+section {
+  flex: 1;
+  min-height: 100vh;
+  position: relative;
+  /* background-color: var(--section); */
+  background: #fefefe;
+}
+.sidebar {
+  max-width: 300px;
+  height: 100%;
+  background-color: var(--white);
+  border-right: 1px solid var(--gray);
+  overflow: auto;
+  position: fixed;
+  z-index: 1;
+  transition: max-width 0.5s;
+  /* overflow: hidden; */
+}
+.colleps-btn {
+  background-color: transparent;
+  position: absolute;
+  bottom: 40px;
+  right: 30px;
+  border: none;
+  font-size: 26px;
+  transform: rotate(-90deg);
+  cursor: pointer;
+  /* padding: 12px; */
+  /* color: var(--white);
+  background: black; */
+  transition: all 0.4s ease;
+}
+.content-page {
+  height: 100%;
+  width: 70%;
+  margin: 20px auto;
+ 
+}
+.content-page h1 {
+  font-size: 60px;
+  line-height: 70px;
+  color: var(--black);
+}
+.sidebar-navlink {
+  padding: 26px;
+  /* padding-top: 10px; */
+}
+ul {
+  list-style: none;
+  padding-top: 100px;
+}
+a {
+  text-decoration: none;
+  border: 1px solid var(--white);
+  
+}
+ul li:not(:last-child) {
+  padding-bottom: 40px;
+}
+ul li a {
+  padding: 5px ;
+  color: var(--black);
+  /* font-size: 15px; */
+  font-weight: 500;
+  line-height: 30px;
+  transition: all 0.3s ease;
+  /* border-radius: 6px; */
+  display: block;
+  white-space: nowrap;
+}
+ul li a span {
+  white-space: nowrap;
+}
+ul li a:hover {
+  /* background-color: rgba(128, 128, 128, 0.114); */
+  border-bottom: 1px solid black;
+}
+.toggle-dark-theme {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  cursor: pointer;
+}
+
+body.dark .toggle-dark-theme .icon {
+  transform: translateX(calc(100% + 10px));
+  background-color: yellow;
+}
+body.dark .toggle-dark-theme .icon::before {
+  color: black;
+  content: "\f185";
+}
+.sidebar.shrink_sidebar ul li a span {
+  opacity: 0;
+  transition: all 0.4s ease;
+}
+.sidebar.shrink_sidebar {
+  max-width: 100px;
+  transition: max-width 0.5s;
+}
+
+.sidebar.shrink_sidebar .colleps-btn {
+  transform: rotate(90deg);
+}
+.active{
+  background-color: rgba(128, 128, 128, 0.114);
+}
+
+
+
+.acc_info{
+  border: 1px solid black;
+  padding: 5%;
+  border-radius: 20px;
+  /* background-color: #272526; */
+  /* color: #fefefe; */
+}
+
+.greeating span{
+  font-weight: 800;
+  font-size: 25px;
+
+}
+.greeating{
+  /* border: 1px solid red; */
+  padding: 50px;
+  line-height: 30px;
+  font-weight: 500;
+  font-size: 17px;
+  text-transform: capitalize;
+  display: block;
+  margin-left: 15%;
+}
+
+.balance{
+  display: flex;
+  /* flex-direction: column; */
+  border: none;
+  border-radius: 20px;
+  margin: 3% 0;
+  background: #272526;
+  width: 100%;
+}
+.bal-left{
+  border-right: 2px solid black;
+  border-radius: 20px 0 0 20px;
+  width: 50%;
+  padding: 3%;
+  background: #e8f9ff;
+}
+.bal-right{
+  /* border-right: 2px solid red; */
+  border-radius: 0 20px 20px 0;
+  width: 50%;
+  padding: 3%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  /* background: #e8f9ff; */
+}
+.bal-rig-btn
+{
+  padding: 3%;
+  border-radius: 20px;
+  background: #e8f9ff;
+  font-size: 14px;
+  transition: .3s all linear;
+}
+.bal-rig-btn:hover
+{
+  background: transparent;
+  border: 1px solid #e8f9ff;
+  color: #e8f9ff;
+}
+
+
+.balance-stats
+{
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 2%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.stats-sec{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.stats-sec ion-icon{
+  font-size: 30px;
+}
+
+.transction-stat a{
+  text-align: center;
+}
+.transction-stat
+{
+  margin: 30px 0;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 3%;
+  
+}
+
+table {
+  border: 1px solid black;
+  text-align:center;
+  margin: 30px 0;
+}
+th{
+  height: 30px;
+  border-bottom: 1px solid black;
+  background: #272526;
+  color: #fefefe;
+}
+td{
+  height: 50px;
+  /* background: #e8f9ff; */
+}
+.more_btn{
+  border: 1px solid #f72359;
+  padding: 1%;
+  margin: 10px 50%;
+  border-radius: 10px;
+  background: #f72359;
+  color: #fefefe;
+  transition: .3s all linear;
+}
+.more_btn:hover{
+  border: 1px solid #f72359;
+  color:#f72359;
+  background: #fefefe;
+}

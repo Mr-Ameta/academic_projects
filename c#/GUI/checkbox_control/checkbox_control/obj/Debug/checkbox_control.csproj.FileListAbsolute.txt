@@ -1,0 +1,11 @@
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\bin\Debug\checkbox_control.exe.config
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\bin\Debug\checkbox_control.exe
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\bin\Debug\checkbox_control.pdb
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\obj\Debug\checkbox_control.csproj.AssemblyReference.cache
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\obj\Debug\checkbox_control.csproj.SuggestedBindingRedirects.cache
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\obj\Debug\checkbox_control.Properties.Resources.resources
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\obj\Debug\checkbox_control.csproj.GenerateResource.cache
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\obj\Debug\checkbox_control.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\obj\Debug\checkbox_control.exe
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\obj\Debug\checkbox_control.pdb
+C:\atmiya\c#\GUI\checkbox_control\checkbox_control\obj\Debug\checkbox_control.Form1.resources

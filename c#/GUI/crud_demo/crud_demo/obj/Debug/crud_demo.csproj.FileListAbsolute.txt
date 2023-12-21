@@ -1,0 +1,13 @@
+C:\atmiya\c#\GUI\crud_demo\crud_demo\bin\Debug\crud_demo.exe.config
+C:\atmiya\c#\GUI\crud_demo\crud_demo\bin\Debug\crud_demo.exe
+C:\atmiya\c#\GUI\crud_demo\crud_demo\bin\Debug\crud_demo.pdb
+C:\atmiya\c#\GUI\crud_demo\crud_demo\obj\Debug\crud_demo.csproj.AssemblyReference.cache
+C:\atmiya\c#\GUI\crud_demo\crud_demo\obj\Debug\crud_demo.csproj.SuggestedBindingRedirects.cache
+C:\atmiya\c#\GUI\crud_demo\crud_demo\obj\Debug\crud_demo.Form1.resources
+C:\atmiya\c#\GUI\crud_demo\crud_demo\obj\Debug\crud_demo.Properties.Resources.resources
+C:\atmiya\c#\GUI\crud_demo\crud_demo\obj\Debug\crud_demo.csproj.GenerateResource.cache
+C:\atmiya\c#\GUI\crud_demo\crud_demo\obj\Debug\crud_demo.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\GUI\crud_demo\crud_demo\obj\Debug\crud_demo.exe
+C:\atmiya\c#\GUI\crud_demo\crud_demo\obj\Debug\crud_demo.pdb
+C:\atmiya\c#\GUI\crud_demo\crud_demo\bin\Debug\DepartmentDb.mdf
+C:\atmiya\c#\GUI\crud_demo\crud_demo\bin\Debug\DepartmentDb_log.ldf

@@ -1,0 +1,11 @@
+C:\atmiya\c#\GUI\picture_box\picture_box\bin\Debug\picture_box.exe.config
+C:\atmiya\c#\GUI\picture_box\picture_box\bin\Debug\picture_box.exe
+C:\atmiya\c#\GUI\picture_box\picture_box\bin\Debug\picture_box.pdb
+C:\atmiya\c#\GUI\picture_box\picture_box\obj\Debug\picture_box.csproj.AssemblyReference.cache
+C:\atmiya\c#\GUI\picture_box\picture_box\obj\Debug\picture_box.csproj.SuggestedBindingRedirects.cache
+C:\atmiya\c#\GUI\picture_box\picture_box\obj\Debug\picture_box.Form1.resources
+C:\atmiya\c#\GUI\picture_box\picture_box\obj\Debug\picture_box.Properties.Resources.resources
+C:\atmiya\c#\GUI\picture_box\picture_box\obj\Debug\picture_box.csproj.GenerateResource.cache
+C:\atmiya\c#\GUI\picture_box\picture_box\obj\Debug\picture_box.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\GUI\picture_box\picture_box\obj\Debug\picture_box.exe
+C:\atmiya\c#\GUI\picture_box\picture_box\obj\Debug\picture_box.pdb

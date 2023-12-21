@@ -1,0 +1,11 @@
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\bin\Debug\first_form_app.exe.config
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\bin\Debug\first_form_app.exe
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\bin\Debug\first_form_app.pdb
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\obj\Debug\first_form_app.csproj.AssemblyReference.cache
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\obj\Debug\first_form_app.csproj.SuggestedBindingRedirects.cache
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\obj\Debug\first_form_app.Form1.resources
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\obj\Debug\first_form_app.Properties.Resources.resources
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\obj\Debug\first_form_app.csproj.GenerateResource.cache
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\obj\Debug\first_form_app.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\obj\Debug\first_form_app.exe
+C:\atmiya\c#\assignment 3\code\first_form_app\first_form_app\obj\Debug\first_form_app.pdb

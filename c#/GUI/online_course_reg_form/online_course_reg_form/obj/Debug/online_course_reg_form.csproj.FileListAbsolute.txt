@@ -1,0 +1,11 @@
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\bin\Debug\online_course_reg_form.exe.config
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\bin\Debug\online_course_reg_form.exe
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\bin\Debug\online_course_reg_form.pdb
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\obj\Debug\online_course_reg_form.csproj.AssemblyReference.cache
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\obj\Debug\online_course_reg_form.csproj.SuggestedBindingRedirects.cache
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\obj\Debug\online_course_reg_form.Form1.resources
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\obj\Debug\online_course_reg_form.Properties.Resources.resources
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\obj\Debug\online_course_reg_form.csproj.GenerateResource.cache
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\obj\Debug\online_course_reg_form.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\obj\Debug\online_course_reg_form.exe
+C:\atmiya\c#\GUI\online_course_reg_form\online_course_reg_form\obj\Debug\online_course_reg_form.pdb

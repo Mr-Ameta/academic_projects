@@ -1,0 +1,11 @@
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\bin\Debug\Crud_pratice.exe.config
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\bin\Debug\Crud_pratice.exe
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\bin\Debug\Crud_pratice.pdb
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\obj\Debug\Crud_pratice.csproj.AssemblyReference.cache
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\obj\Debug\Crud_pratice.csproj.SuggestedBindingRedirects.cache
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\obj\Debug\Crud_pratice.Form1.resources
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\obj\Debug\Crud_pratice.Properties.Resources.resources
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\obj\Debug\Crud_pratice.csproj.GenerateResource.cache
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\obj\Debug\Crud_pratice.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\obj\Debug\Crud_pratice.exe
+C:\atmiya\c#\GUI\Crud_pratice\Crud_pratice\obj\Debug\Crud_pratice.pdb

@@ -1,0 +1,11 @@
+C:\atmiya\c#\GUI\c_o\c_o\bin\Debug\c_o.exe.config
+C:\atmiya\c#\GUI\c_o\c_o\bin\Debug\c_o.exe
+C:\atmiya\c#\GUI\c_o\c_o\bin\Debug\c_o.pdb
+C:\atmiya\c#\GUI\c_o\c_o\obj\Debug\c_o.csproj.AssemblyReference.cache
+C:\atmiya\c#\GUI\c_o\c_o\obj\Debug\c_o.csproj.SuggestedBindingRedirects.cache
+C:\atmiya\c#\GUI\c_o\c_o\obj\Debug\c_o.Form1.resources
+C:\atmiya\c#\GUI\c_o\c_o\obj\Debug\c_o.Properties.Resources.resources
+C:\atmiya\c#\GUI\c_o\c_o\obj\Debug\c_o.csproj.GenerateResource.cache
+C:\atmiya\c#\GUI\c_o\c_o\obj\Debug\c_o.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\GUI\c_o\c_o\obj\Debug\c_o.exe
+C:\atmiya\c#\GUI\c_o\c_o\obj\Debug\c_o.pdb

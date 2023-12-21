@@ -1,0 +1,11 @@
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\bin\Debug\Dilog_Box_Demo.exe.config
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\bin\Debug\Dilog_Box_Demo.exe
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\bin\Debug\Dilog_Box_Demo.pdb
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\obj\Debug\Dilog_Box_Demo.csproj.AssemblyReference.cache
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\obj\Debug\Dilog_Box_Demo.csproj.SuggestedBindingRedirects.cache
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\obj\Debug\Dilog_Box_Demo.Form1.resources
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\obj\Debug\Dilog_Box_Demo.Properties.Resources.resources
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\obj\Debug\Dilog_Box_Demo.csproj.GenerateResource.cache
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\obj\Debug\Dilog_Box_Demo.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\obj\Debug\Dilog_Box_Demo.exe
+C:\atmiya\c#\GUI\Dilog_Box_Demo\Dilog_Box_Demo\obj\Debug\Dilog_Box_Demo.pdb

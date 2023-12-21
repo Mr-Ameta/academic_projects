@@ -1,0 +1,11 @@
+C:\atmiya\c#\GUI\timer_controll\timer_controll\bin\Debug\timer_controll.exe.config
+C:\atmiya\c#\GUI\timer_controll\timer_controll\bin\Debug\timer_controll.exe
+C:\atmiya\c#\GUI\timer_controll\timer_controll\bin\Debug\timer_controll.pdb
+C:\atmiya\c#\GUI\timer_controll\timer_controll\obj\Debug\timer_controll.csproj.AssemblyReference.cache
+C:\atmiya\c#\GUI\timer_controll\timer_controll\obj\Debug\timer_controll.csproj.SuggestedBindingRedirects.cache
+C:\atmiya\c#\GUI\timer_controll\timer_controll\obj\Debug\timer_controll.Form1.resources
+C:\atmiya\c#\GUI\timer_controll\timer_controll\obj\Debug\timer_controll.Properties.Resources.resources
+C:\atmiya\c#\GUI\timer_controll\timer_controll\obj\Debug\timer_controll.csproj.GenerateResource.cache
+C:\atmiya\c#\GUI\timer_controll\timer_controll\obj\Debug\timer_controll.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\GUI\timer_controll\timer_controll\obj\Debug\timer_controll.exe
+C:\atmiya\c#\GUI\timer_controll\timer_controll\obj\Debug\timer_controll.pdb

@@ -1,0 +1,11 @@
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.AssemblyReference.cache
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.SuggestedBindingRedirects.cache
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.Form1.resources
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.Properties.Resources.resources
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.GenerateResource.cache
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.CoreCompileInputs.cache
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\bin\Debug\CRUD_Operation.exe.config
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\bin\Debug\CRUD_Operation.exe
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\bin\Debug\CRUD_Operation.pdb
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.exe
+C:\atmiya\c#\GUI\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.pdb
